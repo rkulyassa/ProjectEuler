@@ -11,7 +11,7 @@ public class p006 {
 			b += i;
 		}
 		b *= b;
-		result = b-a
+		result = b-a;
 		System.out.println(result);
 	}
 }
